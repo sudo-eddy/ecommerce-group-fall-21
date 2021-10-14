@@ -28,3 +28,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Project progress and status will be done on Github, we will make use of Github's [milestones and issues](https://guides.github.com/features/issues/)
 
 - Learn React [here](https://reactjs.org/tutorial/tutorial.html)
+
+
+Will this change
