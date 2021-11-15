@@ -32,13 +32,12 @@
 
 ##### - [cart-page](https://github.com/sudo-eddy/ecommerce-group-fall-21/issues/9)
 
-- [x] In-progress
-- [ ] Completed
+- [ ] In-progress
+- [x] Completed
 - [x] Backlog
 - [ ] Blocked
 
-Notes: cart page functionality is still in progress but basic layout is in place, moved to backlog.
-
+Notes: basic cart page functionality is in place, moved to backlog(won't close ticket until checkout is good)
 ##### [product-catalog-expansion](https://github.com/sudo-eddy/ecommerce-group-fall-21/issues/10)
 
 - [x] In-progress
@@ -52,3 +51,8 @@ Notes: Pradeep has been assigned to this ticket. More products will be created a
 ***
 
 ### 3. No blockers identified
+
+***
+#### Notes: 
+
+for week 4 I will finish implementing the use of react router so we can navigate within our app, start the checkout form, and some handler functions for the cart itself, remove the cart icon when user is at the main page. For this week (as time permits) devs will focus more on contributing to the project by expanding up the already established code, CSS styling is a big part of this effor. Let's call it the beautify-week (or two) - meeting with the team later this week to discuss styling, pagination, animations, logo, and final page name. 
