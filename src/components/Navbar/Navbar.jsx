@@ -3,6 +3,7 @@ import { AppBar, Toolbar, IconButton, Badge, MenuItem, Menu, Typography } from '
 import { ShoppingCart } from '@material-ui/icons';
 import { Link, useLocation } from 'react-router-dom';
 import useStyles from './styles';
+import logo from '../../assets/shop_logo.png';
 
 
 
@@ -16,8 +17,8 @@ const NavBar = ({ totalItems }) => {
             <AppBar position="fixed" className={classes.appBar} color="inherit">
                 <Toolbar>
                     <Typography variant="h6" className={classes.title} color="inherit">
-                        <img src='' alt="group-ecommerce" height="32px" className={classes.image} />
-                        Gorup app
+                        <img src={logo} alt="Online Shop" height="25px" className={classes.image} />
+                        Classic T-Shirts and Accessories
                     </Typography>
                     <div className={classes.grow}/>
                     {location.pathname === '/' && (
