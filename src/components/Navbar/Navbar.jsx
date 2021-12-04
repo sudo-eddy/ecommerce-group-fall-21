@@ -17,8 +17,8 @@ const NavBar = ({ totalItems }) => {
             <AppBar position="fixed" className={classes.appBar} color="inherit">
                 <Toolbar>
                     <Typography variant="h6" className={classes.title} color="inherit">
-                        <img src={logo} alt="Online Shop" height="25px" className={classes.image} />
-                        Classic T-Shirts and Accessories
+                        <img src={logo} alt="Online Shop" className={classes.image} />
+                        We have the best nerdy swag!
                     </Typography>
                     <div className={classes.grow}/>
                     {location.pathname === '/' && (

@@ -11,14 +11,14 @@ export const Product = ({ product, onAddToCart }) => {
            <CardMedia className={classes.media} image={product.image.url} title={product.name} />
            <CardContent>
                <div className={classes.cardContent}>
-                   <Typography variant="h5" gutterBottom>
+                   <Typography className={classes.title} variant="h5" gutterBottom>
                        {product.name}
                    </Typography>
-                   <Typography variant="h5" >
+                   <Typography className={classes.title} variant="h5" >
                        {product.price.formatted_with_symbol}
                    </Typography>
                </div>
-               <Typography dangerouslySetInnerHTML={{__html: product.description}} variant="body2" color="textSecondary"/>
+               <Typography dangerouslySetInnerHTML={{__html: product.description}} variant="body2" className={classes.description}/>
            </CardContent>
            <CardActions disableSpacing className={classes.cardActions}>
                <IconButton aria-label="Add to Cart" onClick={() => onAddToCart(product.id, 1)}>

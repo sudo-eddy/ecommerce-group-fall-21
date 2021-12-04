@@ -1,1 +1,0 @@
-almost all functionality implemented just need to introduce the checkout form. 
