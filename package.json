@@ -2,7 +2,7 @@
   "name": "ecommerce-csc-478",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sudo-eddy/sudo-eddy.github.io",
+  "homepage": "https://sudo-eddy.github.io/",
   "proxy": "http://localhost:3000",
   "dependencies": {
     "@chec/commerce.js": "^2.8.0",
