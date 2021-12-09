@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/sudo-eddy/sudo-eddy.github.io/static/js/main.59dbed8a.chunk.js",
-    "main.js.map": "/sudo-eddy/sudo-eddy.github.io/static/js/main.59dbed8a.chunk.js.map",
-    "runtime-main.js": "/sudo-eddy/sudo-eddy.github.io/static/js/runtime-main.e532fd06.js",
-    "runtime-main.js.map": "/sudo-eddy/sudo-eddy.github.io/static/js/runtime-main.e532fd06.js.map",
-    "static/js/2.90368e08.chunk.js": "/sudo-eddy/sudo-eddy.github.io/static/js/2.90368e08.chunk.js",
-    "static/js/2.90368e08.chunk.js.map": "/sudo-eddy/sudo-eddy.github.io/static/js/2.90368e08.chunk.js.map",
-    "index.html": "/sudo-eddy/sudo-eddy.github.io/index.html",
-    "static/js/2.90368e08.chunk.js.LICENSE.txt": "/sudo-eddy/sudo-eddy.github.io/static/js/2.90368e08.chunk.js.LICENSE.txt",
-    "static/media/shop_logo.892cbcb8.png": "/sudo-eddy/sudo-eddy.github.io/static/media/shop_logo.892cbcb8.png"
+    "main.js": "/static/js/main.59dbed8a.chunk.js",
+    "main.js.map": "/static/js/main.59dbed8a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a576ca9c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a576ca9c.js.map",
+    "static/js/2.90368e08.chunk.js": "/static/js/2.90368e08.chunk.js",
+    "static/js/2.90368e08.chunk.js.map": "/static/js/2.90368e08.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.90368e08.chunk.js.LICENSE.txt": "/static/js/2.90368e08.chunk.js.LICENSE.txt",
+    "static/media/shop_logo.892cbcb8.png": "/static/media/shop_logo.892cbcb8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e532fd06.js",
+    "static/js/runtime-main.a576ca9c.js",
     "static/js/2.90368e08.chunk.js",
     "static/js/main.59dbed8a.chunk.js"
   ]
